@@ -37,3 +37,9 @@ For production::
 
     $ pip install -r requirements.txt
 
+Acknowledgements
+================
+
+I'm working through the `twoscoops book`_.  Thanks to those guys for the push I needed to finally put together some startproject files.  Most of what's here has been hijacked from them.
+
+.. _twoscoops book: https://django.2scoops.org/
